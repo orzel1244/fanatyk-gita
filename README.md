@@ -33,3 +33,24 @@ Tak go za tego tego pusha z forcem znienawidził.
 
 Trochę już czasu temu inny kolega Stefan namówił ojca na wzięcie udziału w projekcie polegającym na commitowaniu przynajmniej raz dziennie. Jebany tak się w to wkręcił, że Stefan już dawno poległ na dwusetnym dniu, a ten już ma ich ponad 600 i najwyraźniej nie zamierza dać za wygraną. Jak nie ma co to commituje wszystko... Nie wspominałem o tym, ale zaczął prowadzić bloga z postami w formie commitów, commituje każde swoje wyjście z piwnicy pisząc gdzie wyszedł, po co i o której godzinie, ma repo z listą obejrzanych filmów i seriali, repo z listą przeczytanych tygodników o gicie, a na awaryjne dni zrobił sobie repo z kodem wymagającym dużej ilości jakichś głupich poprawek typu brakujące średniki. I jak nie ma co commitnąć to kurwa dodaje średnik do linijki 1337 i odhaczona commit na ten dzień mrucząc pod nosem, że musi jeszcze tylko napisać jakiś dobry commit message.
 
+Stary jakoś w zeszłym roku stwierdził, że koniecznie musi mieć jakieś nowe repo, bo niby już mu się znudziło napierdalanie łatek do Debiana, bo i tak wszyscy przerzucili się na zjebane Ubuntu z oczojebnym unity.
+Ale nie miał bladego pojęcia od czego zacząć, a hehe korposzczurem to on nie jest żeby Canonicial mu rozkazywał, więc zgadał się z jakimiś programistami z okolicy, że razem coś wymyślą i będą napierdalać co noc nowe commity. 
+Na początku ta kooperatywa szła nawet nieźle ale, w któryś weekend gdy ojciec miał zamiar spushować nowego commita korki wyjebało i tak się wkurwił, że się rozchorował, i wylądował w szpitalu, i miał olbrzymi ból dupy, bo nie mógł złapać wifi. Jeszcze ci jego koledzy dzwonili, że wstawili już kilkanaście commitów więc mój ojciec tylko leżał czerwony ze złości na wyrze i sapał z wkurwienia. Sytuację jeszcze pogarszało to, że nie miał na kogo zwalić winy co zawsze robi. W końcu doszedł do wniosku, że to niesprawiedliwe, że oni tak commitują bez niego, bo przecież razem wymyślili co mają robić i w niedzielę wieczorem, jak te janusze już poszły spać, wyszedł nagle ze szpitala.
+Po godzinie wraca do domu i mówi do mnie, że muszę mu pomóc z czymś przed domem. Wychodzę na zewnątrz, a tam nasz samochód z przyczepą i kilkoma kompami xD Pytam skąd on je wziął a on mówi, że januszom zajebał z piwnicy bo oni go oszukali i żebym łapał z nim pecety, i wnosimy do mieszkania XD Na nic się zdało tłumaczenie, że zajebie nimi cały duży pokój. 
+A tu nagle przyjeżdżają 2 samochody z januszami, którzy po IP domyślili się gdzie ich własność może się znajdować xD Zaczęła się nieziemska inba bo janusze drą mordy dlaczego pecety ukradł, i że ma oddawać a ojciec się drze, że oni go oszukali i on także miał napierdalać commity, a cały weekend był odcięty od neta. Ja starałem się załagodzić sytuację żeby ojciec od nich nie dostał wpierdolu bo było blisko.
+Po kilkunastu minutach sytuacja wyglądała tak:
+> Mój ojciec leży na ziemi, kurczowo trzyma blaszanego ATX'a i krzyczy, że nie odda
+
+> Janusze krzyczą, że ma oddawać
+
+> Jeden janusz ma rozjebany nos bo próbował leżącego ojca odciągnąć od swojego peceta za nogę i dostał drugą nogą z kopa
+
+> Dwóch policjantów ciągnie ojca za nogi i mówi, że jedzie z nimi na komisariat bo pobił człowieka
+
+> We wszystkich oknach dookoła stoją sąsiedzi
+
+> Moja stara płacze i błaga ojca żeby zostawił pecety a policjantów żeby go nie aresztowali
+
+> Ja git checkout -b smutnazaba
+
+W końcu policjanci oderwali starego. Ja podałem januszom hasła do kluczy SSH, które zdążył im podmienić w konfiguracji gita i zabrali pecety, mówiąc, że nie ma już do repa żadnego prawa i lepiej dla niego, żeby się nigdy na GitHubie w żadnej dyskusji pod PR-em nie spotkali. Matka ubłagała policjantów, żeby nie aresztowali ojca. Janusz co dostał w mordę butem powiedział, że on się nie będzie pierdolił z łażeniem po komisariatach i ma to w dupie tylko ojca nie chce więcej widzieć.
