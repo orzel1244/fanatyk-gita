@@ -29,7 +29,7 @@ Wspomniałem, że ojciec ma kolegę mirka, z którym jeździ na meetupy i robi P
 i zaczął mruczeć pod nosem, że to co Zbysiu zrobił to gruba przesada, a jak Zbychu wyszedł to do rana siedział i squashe robił, żeby log wyglądał jak jedna linia. W zeszłym roku zadzwoniła żona Zbysia, że spadł ze schodów, rozbił głowę i że zaprasza na pogrzeb. Odebrała akurat matka, złożyła kondolencje, odkłada słuchawkę i mówi o tym ojcu, a ojciec
 > I bardzo kurwa dobrze
 
-Tak go za tego tego merga i pusha z forcem znienawidził.
+Tak go za tego merga i pusha z forcem znienawidził.
 
 Trochę już czasu temu inny kolega Stefan namówił ojca na wzięcie udziału w projekcie polegającym na commitowaniu przynajmniej raz dziennie. Jebany tak się w to wkręcił, że Stefan już dawno poległ na dwusetnym dniu, a ten już ma ich ponad 600 i najwyraźniej nie zamierza dać za wygraną. Jak nie ma co to commituje wszystko... Nie wspominałem o tym, ale zaczął prowadzić bloga z postami w formie commitów, commituje każde swoje wyjście z piwnicy pisząc gdzie wyszedł, po co i o której godzinie, ma repo z listą obejrzanych filmów i seriali, repo z listą przeczytanych tygodników o gicie, a na awaryjne dni zrobił sobie repo z kodem wymagającym dużej ilości jakichś głupich poprawek typu brakujące średniki. I jak nie ma co commitnąć to kurwa dodaje średnik do linijki 1337 i odhaczona commit na ten dzień mrucząc pod nosem, że musi jeszcze tylko napisać jakiś dobry commit message.
 
